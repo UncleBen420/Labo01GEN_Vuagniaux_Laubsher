@@ -73,6 +73,10 @@ git push // on push les modifications sur github
 
 git branch dev // cree la branch mais on ne switch pas dessus
 
+<<<<<<< HEAD
+=======
+git push --set-upstream origin dev
+>>>>>>> d380a3f
 
 ## Etape 8 push sur essai
 
@@ -99,3 +103,16 @@ git status // on verifie l'etat des fichiers
 git commit -m "etape9" // on ajoute un commit des modifications
 
 git push // on push les modifications sur github
+<<<<<<< HEAD
+=======
+¨sethb
+## Etape 10 merge essai -> master
+
+// on a plusieurs possibilites :
+
+git merge dev // car dev pointe sur le bon commit
+
+git merge essai^ // car cela correspond au bon commit
+
+git merge 9c75ac7 // merge avec le numero du commit
+>>>>>>> d380a3f
