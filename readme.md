@@ -78,7 +78,7 @@ git push --set-upstream origin dev
 ## Etape 8 push sur essaidgb
 
 git status // affiche le status des fichiers modifies (readme.md a ete modifie)
-
+setjmfsftgrsdhft4dzmtsf
 git add * // ajoute les fichiers
 
 git status // on verifie l'etat des fichiers
