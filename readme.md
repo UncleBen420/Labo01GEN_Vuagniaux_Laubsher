@@ -91,7 +91,7 @@ git commit -m "etape8" // on ajoute un commit des modifications
 git push // on push les modifications sur github
 
 ## Etape 9 push sur master
-
+fwsrtz
 git checkout -f master // -f force le changement de branch
 
 git status // affiche le status des fichiers modifies (readme.md a ete modifie)
