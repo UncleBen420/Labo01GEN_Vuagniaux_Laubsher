@@ -54,3 +54,19 @@ git status // on verifie l'etat des fichiers
 git commit -m "etape5" // on ajoute un commit des modifications
 
 git push // on push les modifications sur github
+
+git push --set-upstream origin essai // donnee par le terminal car il n'y a pas de upstream branch sur github
+
+## Etape 6 push sur essai
+
+git status // affiche le status des fichiers modifies (readme.md a ete modifie)
+
+git add * // ajoute les fichiers
+
+git status // on verifie l'etat des fichiers
+
+git commit -m "etape6" // on ajoute un commit des modifications
+
+git push // on push les modifications sur github
+
+git push --set-upstream origin essai // donnee par le terminal car il n'y a pas de upstream branch sur github
