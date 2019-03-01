@@ -36,3 +36,21 @@ git status // on verifie l'etat des fichiers
 git commit -m "etape3" // on ajoute un commit des modifications
 
 git push // on push les modifications sur github
+
+## Etape 4 on cree la branch essai
+
+git branch essai // cree la branch mais on ne switch pas dessus
+
+git checkout essai // on switch dessus
+
+## Etape 5 push sur la nouvelle branch
+
+git status // affiche le status des fichiers modifies (readme.md a ete modifie)
+
+git add * // ajoute les fichiers
+
+git status // on verifie l'etat des fichiers
+
+git commit -m "etape5" // on ajoute un commit des modifications
+
+git push // on push les modifications sur github
